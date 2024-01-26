@@ -2,7 +2,7 @@
 
 Startup co-founder matching platform built using Cohere for the WAT.AI RAG Challenge hackathon. 
 
-> Co-Founder Match Example
+### Co-Founder Match Example
 
 ```
 Certainly! Here is an overview of the LinkedIn profile for Karan Gupta, a senior software engineer with over a decade of experience in the industry:
